@@ -4,4 +4,4 @@
 
 ![Our 2024 Robot](/RobotPicture.png "Name TDB")
 
-The official robot code of FRC 6854's 2024 robot (Name TBD)
+The official robot code of FRC 6854's 2024 robot, Viper
