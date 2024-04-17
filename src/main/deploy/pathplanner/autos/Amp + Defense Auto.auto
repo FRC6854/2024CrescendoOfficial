@@ -1,0 +1,37 @@
+{
+  "version": 1.0,
+  "startingPose": {
+    "position": {
+      "x": 0.45267274290893716,
+      "y": 7.359196687936524
+    },
+    "rotation": 0
+  },
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Amp Auto Score Preset"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Amplify"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Amp Defense"
+          }
+        }
+      ]
+    }
+  },
+  "folder": null,
+  "choreoAuto": false
+}

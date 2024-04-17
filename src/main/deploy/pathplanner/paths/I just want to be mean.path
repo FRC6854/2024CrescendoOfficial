@@ -1,0 +1,100 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.4716191785324748,
+        "y": 4.0742428543680616
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.471619178532474,
+        "y": 4.0742428543680616
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 3.9222907857580425,
+        "y": 2.8215422313197562
+      },
+      "prevControl": {
+        "x": 1.2471268902601693,
+        "y": 2.768038953409797
+      },
+      "nextControl": {
+        "x": 4.83445143360875,
+        "y": 2.839785444276771
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.227689043613383,
+        "y": 4.974241360247427
+      },
+      "prevControl": {
+        "x": 4.318592073740434,
+        "y": 4.8439381279183245
+      },
+      "nextControl": {
+        "x": 8.410121173183525,
+        "y": 4.980322431233098
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.227689043613383,
+        "y": 4.0742428543680616
+      },
+      "prevControl": {
+        "x": 8.312824037412783,
+        "y": 4.3843774746373025
+      },
+      "nextControl": {
+        "x": 8.142554049813983,
+        "y": 3.7641082340988206
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.227689043613383,
+        "y": 5.685726665570979
+      },
+      "prevControl": {
+        "x": 8.154716191785326,
+        "y": 5.4880918585366585
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 5.0,
+    "maxAcceleration": 7.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0.0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "General Defense",
+  "previewStartingState": {
+    "rotation": 0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}

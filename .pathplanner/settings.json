@@ -1,0 +1,18 @@
+{
+  "robotWidth": 0.81,
+  "robotLength": 0.81,
+  "holonomicMode": true,
+  "pathFolders": [
+    "Amp Autos",
+    "Auto Move",
+    "General Defense",
+    "OP Autos",
+    "Other Team Autos"
+  ],
+  "autoFolders": [],
+  "defaultMaxVel": 5.0,
+  "defaultMaxAccel": 7.0,
+  "defaultMaxAngVel": 540.0,
+  "defaultMaxAngAccel": 720.0,
+  "maxModuleSpeed": 5.5
+}

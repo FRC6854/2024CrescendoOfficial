@@ -1,0 +1,84 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.4594570365611321,
+        "y": 1.501949827429066
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.4871580331395964,
+        "y": 1.7087062409418943
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 6.7256645101525505,
+        "y": 3.660730027342407
+      },
+      "prevControl": {
+        "x": 4.858775717551436,
+        "y": 4.585052817164458
+      },
+      "nextControl": {
+        "x": 7.439718750761607,
+        "y": 3.3071917714056753
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.30674296642711,
+        "y": 3.3445143360905365
+      },
+      "prevControl": {
+        "x": 7.771796551715273,
+        "y": 3.2803207663251173
+      },
+      "nextControl": {
+        "x": 8.458769741068895,
+        "y": 3.3627575490475503
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 8.30674296642711,
+        "y": 4.159377848167461
+      },
+      "prevControl": {
+        "x": 8.528702057404116,
+        "y": 4.049918570425378
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 5.0,
+    "maxAcceleration": 7.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": "Other Team Autos",
+  "previewStartingState": {
+    "rotation": 0,
+    "velocity": 0
+  },
+  "useDefaultConstraints": true
+}
